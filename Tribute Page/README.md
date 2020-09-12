@@ -8,7 +8,7 @@ Live project link: <https://codepen.io/ah_nguyen0208/pen/bGEZgLe>
 
 ## Screenshot
 
-![screenshot](https://github.com/anguyen0208/images/blob/master/Screen%20Shot%202020-07-27%20at%204.24.00%20PM.png)
+![screenshot](https://github.com/anguyen0208/Project-Screenshots/blob/master/FCC-Tribute-Page.png)
 
 ## Objective
 
